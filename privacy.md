@@ -45,6 +45,7 @@ TABLE OF CONTENTS
 10. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 11. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
+
 1. WHAT INFORMATION DO WE COLLECT?
 
 Personal information you disclose to us
@@ -62,6 +63,7 @@ This information is primarily needed to maintain the security and operation of o
 
 All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
 
+
 2. HOW DO WE PROCESS YOUR INFORMATION?
 
 In Short: We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.
@@ -72,6 +74,7 @@ We process your personal information for a variety of reasons, depending on how 
 
 
 To save or protect an individual's vital interest. We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
+
 
 3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
 
@@ -101,6 +104,7 @@ If it was produced by an individual in the course of their employment, business,
 If the collection is solely for journalistic, artistic, or literary purposes
 If the information is publicly available and is specified by the regulations
 
+
 4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
 
 In Short: We may share information in specific situations described in this section and/or with the following third parties.
@@ -109,6 +113,7 @@ In Short: We may share information in specific situations described in this sect
 We may need to share your personal information in the following situations:
 Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
 
+
 5. HOW LONG DO WE KEEP YOUR INFORMATION?
 
 In Short: We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.
@@ -116,6 +121,7 @@ In Short: We keep your information for as long as necessary to fulfill the purpo
 We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements). No purpose in this notice will require us keeping your personal information for longer than __________.
 
 When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+
 
 6. WHAT ARE YOUR PRIVACY RIGHTS?
 
@@ -135,9 +141,11 @@ However, please note that this will not affect the lawfulness of the processing 
 
 If you have questions or comments about your privacy rights, you may email us at gewoonsiebe03@gmail.com.
 
+
 7. CONTROLS FOR DO-NOT-TRACK FEATURES
 
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.
+
 
 8. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 
@@ -147,11 +155,13 @@ California Civil Code Section 1798.83, also known as the "Shine The Light" law, 
 
 If you are under 18 years of age, reside in California, and have a registered account with Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us using the contact information provided below and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from all our systems (e.g., backups, etc.).
 
+
 9. DO WE MAKE UPDATES TO THIS NOTICE?
 
 In Short: Yes, we will update this notice as necessary to stay compliant with relevant laws.
 
 We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
+
 
 10. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
@@ -160,6 +170,7 @@ If you have questions or comments about this notice, you may email us at gewoons
 __________
 __________
 __________
+
 
 11. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
